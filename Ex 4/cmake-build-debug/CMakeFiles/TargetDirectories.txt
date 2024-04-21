@@ -1,3 +1,0 @@
-C:/Users/ASUS/Desktop/khalil/Horizon School of Digital Technologies/C programing/Stack/Lab 1/Ex 4/cmake-build-debug/CMakeFiles/Ex_4.dir
-C:/Users/ASUS/Desktop/khalil/Horizon School of Digital Technologies/C programing/Stack/Lab 1/Ex 4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Desktop/khalil/Horizon School of Digital Technologies/C programing/Stack/Lab 1/Ex 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
